@@ -53,7 +53,7 @@ Every question should be short, clear, and focused on a single piece of knowledg
 
 ```md
 # 01 - Question?
-> Answer: Answer.
+> Answer.
 ```
 
 ## 🔢 Numbering System
